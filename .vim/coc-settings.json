@@ -1,0 +1,3 @@
+{
+  "rust-analyzer.linkedProjects": ["Cargo.toml", "aya-flake-template-ebpf/Cargo.toml"]
+}
